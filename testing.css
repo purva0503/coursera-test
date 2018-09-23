@@ -1,0 +1,16 @@
+.outer {
+    margin: 0 auto;
+    width: 860px;
+    direction: rtl;
+    background-color: black;
+    height: 1200px;
+}
+
+.inner {
+    float: right;
+    position: fixed;
+    text-align: center;
+    width: 220px;
+    background-color: red;
+    height: 50px;
+}
